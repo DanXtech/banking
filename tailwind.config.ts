@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-
+// import img from "../../"
 const config = {
   // darkMode: ["class"],
   content: [
